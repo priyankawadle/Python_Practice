@@ -1,0 +1,1 @@
+{each}not prime number{each}not prime number{each}prime number{each}prime number{each}prime number{each}prime number

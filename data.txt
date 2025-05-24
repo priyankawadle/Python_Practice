@@ -1,0 +1,3 @@
+Hi, I am Yash and I am learning Python. 
+In the next few months I will learn Data Science and Machine Learning. 
+After that, I will learn Generative AI and to make applications using AI.
