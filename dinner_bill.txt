@@ -1,0 +1,6 @@
+Alice,Pizza,0
+Bob,Burger,not_available
+Charlie,Pasta,400
+David,Fries,120
+Eve,Steak,550
+Frank,IceCream,abc
