@@ -1,22 +1,28 @@
-Error for Alice reason for: price must be greater than zero
-Error for Bob reason for: price must be convertable to integer
-Error for Frank reason for: price must be convertable to integer
-Error for Alice reason for: price must be greater than zero
-Error for Bob reason for: price must be convertable to integer
-Error for Frank reason for: price must be convertable to integer
-Error for Alice reason for: price must be greater than zero
-Error for Bob reason for: price must be convertable to integer
-Error for Frank reason for: price must be convertable to integer
-Error for Alice reason for: price must be greater than zero
-Error for Bob reason for: price must be convertable to integer
-Error for Frank reason for: price must be convertable to integer
-Error for Alice reason for: price must be greater than zero
-Error for Bob reason for: price must be convertable to integer
-Error for Frank reason for: price must be convertable to integer
-Error for Alice reason for: price must be greater than zero
-Error for Bob reason for: price must be convertable to integer
-Error for Frank reason for: price must be convertable to integer
-File not found: __2025-05-25 21:27:36.041458
+Error for Bob reason for: price must be convertable to integer__2025-05-29 21:10:20.385805
 
-File not found: __2025-05-25 21:27:45.180321
+Error for Frank reason for: price must be convertable to integer__2025-05-29 21:10:20.386807
+
+Error for Bob reason for: price must be convertable to integer__2025-05-29 21:10:37.254906
+
+Error for Bob reason for: price must be convertable to integer__2025-05-29 21:11:24.091612
+
+Error for Bob reason for: price must be convertable to integer__2025-05-29 21:11:26.961632
+
+Error for Bob reason for: price must be convertable to integer__2025-05-29 21:12:14.920593
+
+Error for Frank reason for: price must be convertable to integer__2025-05-29 21:12:14.921606
+
+Error for Frank reason for: price must be greater than zero__2025-05-29 21:12:14.922608
+
+Error for Bob reason for: price must be convertable to integer__2025-05-29 21:12:29.256079
+
+Error for Frank reason for: price must be convertable to integer__2025-05-29 21:12:29.257085
+
+Error for Frank reason for: price must be greater than zero__2025-05-29 21:12:29.257085
+
+Error for Bob reason for: price must be convertable to integer__2025-05-29 21:12:45.034215
+
+Error for Frank reason for: price must be convertable to integer__2025-05-29 21:12:45.035225
+
+Error for Frank reason for: price must be greater than zero__2025-05-29 21:12:45.035795
 
