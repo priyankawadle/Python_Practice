@@ -26,3 +26,9 @@ Error for Frank reason for: price must be convertable to integer__2025-05-29 21:
 
 Error for Frank reason for: price must be greater than zero__2025-05-29 21:12:45.035795
 
+Error for Bobwhere Price: not_available which must be proper interger __2025-06-04 21:04:40.583710
+
+Error for Frankwhere Price: abc which must be proper interger __2025-06-04 21:04:40.586288
+
+Error for Frankwhere Price: abc which must be greater than zero __2025-06-04 21:04:40.587840
+
